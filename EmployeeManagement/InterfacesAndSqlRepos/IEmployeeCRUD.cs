@@ -1,4 +1,5 @@
 ﻿using EmployeeManagement.Models;
+using EmployeeManagement.ViewModel;
 
 namespace EmployeeManagement.InterfacesAndSqlRepos
 {
@@ -9,5 +10,6 @@ namespace EmployeeManagement.InterfacesAndSqlRepos
         public EmployeeModel Add(EmployeeModel employee);
         public EmployeeModel Update(EmployeeModel upEmployee);
         public EmployeeModel Delete(int id);
+        Task<int> AddNewEmployee(EmployeeViewModel model);
     }
 }

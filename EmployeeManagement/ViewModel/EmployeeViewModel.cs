@@ -1,4 +1,5 @@
 ﻿using EmployeeManagement.Models;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace EmployeeManagement.ViewModel
 {
@@ -12,5 +13,8 @@ namespace EmployeeManagement.ViewModel
         public int Age { get; set; }
         public RoleModel EmpRole { get; set; }
         public double Salary { get; set; }
+        [NotMapped]
+        public IFormFile Photos { get; set; }
+        public string? PhotoURL { get; set; }
     }
 }

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "wHLfVfoeoCrWkBI9fp+MrbehBcyDWjDz2tu5+FNzTNs=",
+  "Hash": "XdgTvhKwKHqVG025ubINZKmCv+t+E//k4zwpfcCj9i4=",
   "Source": "EmployeeManagement",
   "BasePath": "_content/EmployeeManagement",
   "Mode": "Default",
@@ -66,6 +66,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\Piyush\\source\\repos\\EmployeeManagement\\EmployeeManagement\\wwwroot\\EmployeesImages\\cover\\325beac4-0ee0-4c88-bbea-df587ebe4189_IMG_20210122_193246 (2).jpg",
+      "SourceId": "EmployeeManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Piyush\\source\\repos\\EmployeeManagement\\EmployeeManagement\\wwwroot\\",
+      "BasePath": "_content/EmployeeManagement",
+      "RelativePath": "EmployeesImages/cover/325beac4-0ee0-4c88-bbea-df587ebe4189_IMG_20210122_193246 (2).jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\EmployeesImages\\cover\\325beac4-0ee0-4c88-bbea-df587ebe4189_IMG_20210122_193246 (2).jpg"
     },
     {
       "Identity": "C:\\Users\\Piyush\\source\\repos\\EmployeeManagement\\EmployeeManagement\\wwwroot\\favicon.ico",
