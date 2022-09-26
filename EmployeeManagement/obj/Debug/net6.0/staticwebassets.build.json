@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "XdgTvhKwKHqVG025ubINZKmCv+t+E//k4zwpfcCj9i4=",
+  "Hash": "oXIULm/8ju0uMbBu/TYeB4l6yik1GianapqSN6/xp3w=",
   "Source": "EmployeeManagement",
   "BasePath": "_content/EmployeeManagement",
   "Mode": "Default",
@@ -49,6 +49,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Piyush\\source\\repos\\EmployeeManagement\\EmployeeManagement\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\EmployeeManagement.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Piyush\\source\\repos\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\input.css",
+      "SourceId": "EmployeeManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Piyush\\source\\repos\\EmployeeManagement\\EmployeeManagement\\wwwroot\\",
+      "BasePath": "_content/EmployeeManagement",
+      "RelativePath": "css/input.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\input.css"
+    },
+    {
+      "Identity": "C:\\Users\\Piyush\\source\\repos\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\output.css",
+      "SourceId": "EmployeeManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Piyush\\source\\repos\\EmployeeManagement\\EmployeeManagement\\wwwroot\\",
+      "BasePath": "_content/EmployeeManagement",
+      "RelativePath": "css/output.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\output.css"
     },
     {
       "Identity": "C:\\Users\\Piyush\\source\\repos\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\site.css",

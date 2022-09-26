@@ -9,5 +9,6 @@ namespace EmployeeManagement.ApplicationDbContext
         {
         }
         public DbSet<EmployeeModel> Employees { get; set; }
+        public DbSet<EmployeeRegisterModel> EmployeesRegister { get; set; }
     }
 }

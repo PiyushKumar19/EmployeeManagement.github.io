@@ -15,6 +15,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Piyush\source\repos\EmployeeManagement\EmployeeManagement
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Piyush/source/repos/EmployeeManagement/EmployeeManagement/Views/EmployeeRegister/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVSZWdpc3RlclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Piyush/source/repos/EmployeeManagement/EmployeeManagement/Views/EmployeeRegister/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVSZWdpc3RlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Piyush/source/repos/EmployeeManagement/EmployeeManagement/Views/Employee/AddEmployee.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcQWRkRW1wbG95ZWUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
