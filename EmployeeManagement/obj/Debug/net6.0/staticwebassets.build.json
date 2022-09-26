@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "oXIULm/8ju0uMbBu/TYeB4l6yik1GianapqSN6/xp3w=",
+  "Hash": "O1xhGxfJMrRIoie7goNVqHWamcYl7+DCVDUgLsFgwj4=",
   "Source": "EmployeeManagement",
   "BasePath": "_content/EmployeeManagement",
   "Mode": "Default",
@@ -134,6 +134,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Piyush\\source\\repos\\EmployeeManagement\\EmployeeManagement\\wwwroot\\js\\navNew.js",
+      "SourceId": "EmployeeManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Piyush\\source\\repos\\EmployeeManagement\\EmployeeManagement\\wwwroot\\",
+      "BasePath": "_content/EmployeeManagement",
+      "RelativePath": "js/navNew.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\navNew.js"
     },
     {
       "Identity": "C:\\Users\\Piyush\\source\\repos\\EmployeeManagement\\EmployeeManagement\\wwwroot\\js\\site.js",

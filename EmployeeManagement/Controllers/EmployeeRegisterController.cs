@@ -16,6 +16,7 @@ namespace EmployeeManagement.Controllers
             cRUD = _cRUD;
         }
 
+        // Add Method.
         [HttpGet]
         public IActionResult Create()
         {
