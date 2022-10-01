@@ -4,12 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-		"input:build": "npx tailwind build -i ./EmployeeManagement/wwwroot/css/input.css -o ./EmployeeManagement/wwwroot/css/output.css"
-	  },
+    "input:build": "npx tailwind build -i ./EmployeeManagement/wwwroot/css/input.css -o ./EmployeeManagement/wwwroot/css/output.css"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "tailwindcss": "^3.1.8"
+  },
+  "dependencies": {
+    "flowbite": "^1.5.3"
   }
 }

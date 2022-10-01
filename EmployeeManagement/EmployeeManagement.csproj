@@ -27,7 +27,7 @@
 
 	<!--For tailwind css.-->
 	<Target Name="Tailwind" BeforeTargets="Build">
-		<Exec Command="npm run input:build"/>
+		<Exec Command="npm run input:build" />
 	</Target>
 
 </Project>

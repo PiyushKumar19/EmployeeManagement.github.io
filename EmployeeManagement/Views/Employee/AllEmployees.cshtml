@@ -9,7 +9,7 @@
 <p>
     <a asp-action="Create">Create New</a>
 </p>
-<table class="table">
+@*<table class="table">
     <thead>
         <tr>
             <th>
@@ -61,11 +61,43 @@
                 @Html.DisplayFor(modelItem => item.Salary)
             </td>
             <td>
-                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                <a asp-action="GetEmployee" asp-route-id="@item.Id">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                
             </td>
         </tr>
 }
     </tbody>
 </table>
+*@
+
+@foreach(var item in Model)
+{
+    <section class="bg-gray-800 dark:bg-gray-900 rounded-lg">
+        <div class="container px-6 py-10 mx-auto">
+            <h1 class="text-3xl font-semibold text-gray-800 capitalize lg:text-4xl dark:text-white">From the blog</h1>
+
+            <div class="grid grid-cols-1 gap-8 mt-8 md:mt-16 md:grid-cols-2">
+
+                <div class="lg:flex">
+                    <img class="object-cover w-full h-56 rounded-lg lg:w-64" src="@item.PhotoURL" alt="">
+
+                    <div class="flex flex-col justify-between py-6 lg:mx-6">
+                        <a href="#" class="text-xl font-semibold text-blue-800 hover:underline dark:text-white ">
+                            @item.FirstName
+                        </a>
+                        <p class="text-xl font-semibold text-blue-800 hover:underline dark:text-white ">@item.ContactEmail</p>
+                        <p class ="text-xl font-semibold text-blue-800 hover:underline dark:text-white ">@item.Age</p>
+                        <p class="text-xl font-semibold text-blue-800 hover:underline dark:text-white ">@item.City</p>
+
+                        <span class="text-sm text-gray-500 dark:text-gray-300">On: 20 October 2019</span>
+                        <span class="text-sm text-gray-500 dark:text-gray-300">
+                            <a asp-action="Edit" asp-route-id="@item.Id">Edit</a>
+                            <a asp-action="GetEmployee" asp-route-id="@item.Id">Details</a>
+                            <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                        </span>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+}

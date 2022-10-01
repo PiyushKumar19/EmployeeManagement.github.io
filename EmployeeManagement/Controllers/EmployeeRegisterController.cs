@@ -30,10 +30,17 @@ namespace EmployeeManagement.Controllers
             return View(model);
         }
 
+        public IActionResult GetEmployee(int id)
+        {
+            var employee = cRUD.GetEmployee(id);
+            return View(employee);
+        }
+
         public IActionResult Index()
         {
             var employees = context.EmployeesRegister;
             return View(employees);
         }
+
     }
 }
