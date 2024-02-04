@@ -19,7 +19,7 @@ RUN dotnet publish "./EmployeeManagement.csproj" -c Release -o /app/publish /p:U
 # Node.js Installation Stage
 FROM node:14 AS node-install
 WORKDIR /app
-COPY ["EmployeeManagement/package.json", "EmployeeManagement/package-lock.json", "/app/"]
+COPY ["./package.json", "./package-lock.json", "/app/"]
 RUN npm install
 
 # Final Stage
