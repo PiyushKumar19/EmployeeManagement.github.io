@@ -4,7 +4,7 @@ WORKDIR /src
 
 # Copy and restore as distinct layers
 COPY ["EmployeeManagement/EmployeeManagement.csproj", "EmployeeManagement/"]
-RUN dotnet restore "./EmployeeManagement/./EmployeeManagement.csproj"
+RUN dotnet restore "./EmployeeManagement/EmployeeManagement.csproj"
 
 # Copy the remaining files
 COPY . .
