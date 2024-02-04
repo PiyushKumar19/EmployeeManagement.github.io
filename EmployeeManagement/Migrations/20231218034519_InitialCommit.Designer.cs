@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace EmployeeManagement.Migrations
 {
     [DbContext(typeof(DatabaseContext))]
-    [Migration("20220924135506_EmployeeRegisterModelAdd")]
-    partial class EmployeeRegisterModelAdd
+    [Migration("20231218034519_InitialCommit")]
+    partial class InitialCommit
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

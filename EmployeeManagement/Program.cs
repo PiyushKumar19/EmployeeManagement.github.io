@@ -9,9 +9,8 @@ builder.Services.AddControllersWithViews();
 
 builder.Services.AddTransient<IEmployeeCRUD, SqlEmployeeRepo>();
 builder.Services.AddTransient<IEmployeeRegisterCRUD, SqlEmployeeRegisterRepo>();
-string cs = "server = LAPTOP-2SDVC21L; database = EmpManageDB; uid = sa; password = Piyush@1529;";
 builder.Services.AddDbContextPool<DatabaseContext>(options =>
-options.UseSqlServer(cs));
+options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultString")));
 
 var app = builder.Build();
 
