@@ -39,6 +39,7 @@ namespace EmployeeManagement.InterfacesAndSqlRepos
                 context.EmployeesRegister.Remove(employee);
                 context.SaveChanges();
             }
+            throw new Exception("Employee not found");
             return employee;
         }
 
