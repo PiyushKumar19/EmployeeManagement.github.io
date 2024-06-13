@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Git Repo Pulls\\EmployeeManagement.github.io\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{390DE7A6-17DD-4DD3-A303-D004E3817CCA}|EmployeeManagement\\EmployeeManagement.csproj|e:\\git repo pulls\\employeemanagement.github.io\\employeemanagement\\interfacesandsqlrepos\\sqlemployeeregisterrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390DE7A6-17DD-4DD3-A303-D004E3817CCA}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\interfacesandsqlrepos\\sqlemployeeregisterrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390DE7A6-17DD-4DD3-A303-D004E3817CCA}|EmployeeManagement\\EmployeeManagement.csproj|e:\\git repo pulls\\employeemanagement.github.io\\employeemanagement\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390DE7A6-17DD-4DD3-A303-D004E3817CCA}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390DE7A6-17DD-4DD3-A303-D004E3817CCA}|EmployeeManagement\\EmployeeManagement.csproj|e:\\git repo pulls\\employeemanagement.github.io\\employeemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{390DE7A6-17DD-4DD3-A303-D004E3817CCA}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390DE7A6-17DD-4DD3-A303-D004E3817CCA}|EmployeeManagement\\EmployeeManagement.csproj|e:\\git repo pulls\\employeemanagement.github.io\\employeemanagement\\employeemanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{390DE7A6-17DD-4DD3-A303-D004E3817CCA}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\employeemanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390DE7A6-17DD-4DD3-A303-D004E3817CCA}|EmployeeManagement\\EmployeeManagement.csproj|e:\\git repo pulls\\employeemanagement.github.io\\employeemanagement\\views\\employee\\addemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390DE7A6-17DD-4DD3-A303-D004E3817CCA}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\views\\employee\\addemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390DE7A6-17DD-4DD3-A303-D004E3817CCA}|EmployeeManagement\\EmployeeManagement.csproj|e:\\git repo pulls\\employeemanagement.github.io\\employeemanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{390DE7A6-17DD-4DD3-A303-D004E3817CCA}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{390DE7A6-17DD-4DD3-A303-D004E3817CCA}|EmployeeManagement\\EmployeeManagement.csproj|e:\\git repo pulls\\employeemanagement.github.io\\employeemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{390DE7A6-17DD-4DD3-A303-D004E3817CCA}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SqlEmployeeRegisterRepo.cs",
+              "DocumentMoniker": "E:\\Git Repo Pulls\\EmployeeManagement.github.io\\EmployeeManagement\\InterfacesAndSqlRepos\\SqlEmployeeRegisterRepo.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\InterfacesAndSqlRepos\\SqlEmployeeRegisterRepo.cs",
+              "ToolTip": "E:\\Git Repo Pulls\\EmployeeManagement.github.io\\EmployeeManagement\\InterfacesAndSqlRepos\\SqlEmployeeRegisterRepo.cs",
+              "RelativeToolTip": "EmployeeManagement\\InterfacesAndSqlRepos\\SqlEmployeeRegisterRepo.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwCkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:27:40.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeManagement.csproj",
+              "DocumentMoniker": "E:\\Git Repo Pulls\\EmployeeManagement.github.io\\EmployeeManagement\\EmployeeManagement.csproj",
+              "RelativeDocumentMoniker": "EmployeeManagement\\EmployeeManagement.csproj",
+              "ToolTip": "E:\\Git Repo Pulls\\EmployeeManagement.github.io\\EmployeeManagement\\EmployeeManagement.csproj",
+              "RelativeToolTip": "EmployeeManagement\\EmployeeManagement.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-03T18:14:58.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddEmployee.cshtml",
+              "DocumentMoniker": "E:\\Git Repo Pulls\\EmployeeManagement.github.io\\EmployeeManagement\\Views\\Employee\\AddEmployee.cshtml",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Views\\Employee\\AddEmployee.cshtml",
+              "ToolTip": "E:\\Git Repo Pulls\\EmployeeManagement.github.io\\EmployeeManagement\\Views\\Employee\\AddEmployee.cshtml",
+              "RelativeToolTip": "EmployeeManagement\\Views\\Employee\\AddEmployee.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T18:14:58.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Git Repo Pulls\\EmployeeManagement.github.io\\EmployeeManagement\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Program.cs",
+              "ToolTip": "E:\\Git Repo Pulls\\EmployeeManagement.github.io\\EmployeeManagement\\Program.cs",
+              "RelativeToolTip": "EmployeeManagement\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T18:14:58.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Git Repo Pulls\\EmployeeManagement.github.io\\EmployeeManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeManagement\\appsettings.json",
+              "ToolTip": "E:\\Git Repo Pulls\\EmployeeManagement.github.io\\EmployeeManagement\\appsettings.json",
+              "RelativeToolTip": "EmployeeManagement\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-03T18:14:58.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Git Repo Pulls\\EmployeeManagement.github.io\\EmployeeManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Git Repo Pulls\\EmployeeManagement.github.io\\EmployeeManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EmployeeManagement\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T18:14:58.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "E:\\Git Repo Pulls\\EmployeeManagement.github.io\\EmployeeManagement\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Controllers\\EmployeeController.cs",
+              "ToolTip": "E:\\Git Repo Pulls\\EmployeeManagement.github.io\\EmployeeManagement\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeManagement\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAowEAAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T18:14:58.595Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

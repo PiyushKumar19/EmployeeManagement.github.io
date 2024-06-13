@@ -51,7 +51,14 @@ namespace EmployeeManagement.InterfacesAndSqlRepos
         public EmployeeRegisterModel GetEmployee(int id)
         {
             var employee = context.EmployeesRegister.Find(id);
-            return employee;
+            if (employee != null)
+            {
+                return employee;
+            }
+            else
+            {
+                throw new Exception("Employee cannot be found");
+            }
         }
 
         public EmployeeRegisterModel Update(EmployeeRegisterModel upEmployee)
