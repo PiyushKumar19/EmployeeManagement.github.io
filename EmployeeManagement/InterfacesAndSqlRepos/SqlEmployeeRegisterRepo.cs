@@ -63,10 +63,17 @@ namespace EmployeeManagement.InterfacesAndSqlRepos
 
         public EmployeeRegisterModel Update(EmployeeRegisterModel upEmployee)
         {
-            var newEmployee = context.EmployeesRegister.Attach(upEmployee);
-            newEmployee.State = Microsoft.EntityFrameworkCore.EntityState.Modified;
-            context.SaveChanges();
-            return upEmployee;
+            try
+            {
+                var newEmployee = context.EmployeesRegister.Attach(upEmployee);
+                newEmployee.State = Microsoft.EntityFrameworkCore.EntityState.Modified;
+                context.SaveChanges();
+                return upEmployee;
+            }
+            catch(Exception ex)
+            {
+                throw new Exception("Employee cannot be update\n" + ex.Message);
+            }
         }
     }
 }
